@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyChatBox</string>
+    <string name="title_activity_query_resister">QueryResister</string>
+    <string name="title_activity_query_register">QueryRegister</string>
+    <string name="title_activity_query_users">QueryUsers</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_query_chat">QueryChat</string>
+</resources>

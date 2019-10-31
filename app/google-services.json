@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267933324624",
+    "firebase_url": "https://mychatapp-eaf03.firebaseio.com",
+    "project_id": "mychatapp-eaf03",
+    "storage_bucket": "mychatapp-eaf03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267933324624:android:5b27f34b680203e332c855",
+        "android_client_info": {
+          "package_name": "com.example.mychatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267933324624-kjnfnip68hadsi2ugi89ls1dghidt4om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmkNX2dwY-CCg1frku5oOxRjLudYmUUSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267933324624-kjnfnip68hadsi2ugi89ls1dghidt4om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
